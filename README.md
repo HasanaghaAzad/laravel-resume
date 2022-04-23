@@ -2,7 +2,7 @@
 
 My CV resume built on Laravel PHP Framework
 
-- [Demo ](https://hasanaghaazad.github.io/).
+- [Demo](https://hasanaghaazad.github.io/).
 - [Laravel](https://laravel.com).
 
 
