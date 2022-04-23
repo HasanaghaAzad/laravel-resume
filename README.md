@@ -8,9 +8,9 @@ My CV resume built on Laravel PHP Framework
 
 ### Some notes
 
-- Port is :89. Can change in /.env
-- Used Docker
+- Port is :89. Can be changed in /.env
+- Docker Used
 
 
 
-__I plan serve this project on Heroku__
+__I plan to serve this project on Heroku__
